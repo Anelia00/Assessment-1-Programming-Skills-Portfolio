@@ -1,0 +1,12 @@
+# Mac system files
+.DS_Store
+
+# Compiled C++ files
+*.dSYM/
+Challenge1-CO2-Calculator/calculator
+Challenge1-CO2-Calculator/main
+Challenge2-Alexa-Jokes/main
+Challenge3-Book-Manager/main
+
+# VS Code settings
+.vscode/
